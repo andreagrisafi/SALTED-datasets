@@ -1,0 +1,98 @@
+Task 1 handles the following structures: [1, 2, 3, 5, 6, 8, 13, 94]
+Task 2 handles the following structures: [16, 19, 20, 22, 23, 24, 25, 96]
+Task 5 handles the following structures: [47, 49, 50, 51, 54, 56, 57]
+Task 6 handles the following structures: [59, 60, 66, 69, 70, 71, 73]
+Task 3 handles the following structures: [26, 27, 28, 29, 30, 31, 32, 97]
+Task 4 handles the following structures: [33, 34, 36, 38, 40, 43, 46, 98]
+Task 7 handles the following structures: [74, 75, 77, 79, 80, 82, 83]
+Task 8 handles the following structures: [84, 85, 87, 88, 89, 90, 93]
+2: 7.430e-01 % RMSE
+85: 1.553e+00 % RMSE
+60: 1.211e+00 % RMSE
+17: 2.450e-01 % RMSE
+27: 7.776e-01 % RMSE
+34: 5.612e-01 % RMSE
+75: 2.211e+00 % RMSE
+48: 1.083e+00 % RMSE
+76: 1.211e+00 % RMSE
+3: 2.010e+00 % RMSE
+20: 3.300e-01 % RMSE
+61: 8.088e-01 % RMSE
+86: 1.400e+00 % RMSE
+28: 1.473e+00 % RMSE
+35: 4.167e-01 % RMSE
+50: 5.151e-01 % RMSE
+78: 7.327e-01 % RMSE
+4: 4.285e-01 % RMSE
+67: 3.514e-01 % RMSE
+29: 1.150e+00 % RMSE
+37: 4.790e-01 % RMSE
+51: 1.014e+00 % RMSE
+88: 6.885e-01 % RMSE
+21: 8.336e-01 % RMSE
+80: 7.430e-01 % RMSE
+70: 2.921e-01 % RMSE
+30: 4.566e-01 % RMSE
+52: 2.397e-01 % RMSE
+6: 7.748e-01 % RMSE
+89: 5.326e-01 % RMSE
+39: 7.561e-01 % RMSE
+23: 1.467e+00 % RMSE
+81: 1.257e+00 % RMSE
+71: 4.768e-01 % RMSE
+24: 6.224e-01 % RMSE
+41: 1.358e+00 % RMSE
+31: 6.939e-01 % RMSE
+7: 2.483e+00 % RMSE
+55: 2.396e-01 % RMSE
+90: 1.004e+00 % RMSE
+83: 1.188e+00 % RMSE
+72: 2.566e-01 % RMSE
+25: 8.292e-01 % RMSE
+32: 2.141e-01 % RMSE
+44: 4.361e-01 % RMSE
+84: 3.037e-01 % RMSE
+91: 7.686e-01 % RMSE
+74: 8.043e-01 % RMSE
+57: 6.483e-01 % RMSE
+9: 6.325e-01 % RMSE
+26: 7.361e-01 % RMSE
+58: 9.641e-01 % RMSE
+97: 1.031e+00 % RMSE
+33: 1.106e+00 % RMSE
+47: 1.281e+00 % RMSE
+94: 1.150e+00 % RMSE
+14: 7.288e-01 % RMSE
+98: 1.578e+00 % RMSE
+99: 5.207e-01 % RMSE
+95: 7.372e-01 % RMSE
+
+ % RMSE: 9.680e-01
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  validation
+Node list: viper05
+Job start: Fri Jun 28 00:37:19 CEST 2024
+Job end:   Fri Jun 28 00:37:21 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/validation.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21945         validation      1            16                             00:00:02      0:0
+21945.0           python      1      8      8        0.77M        0.77M   00:00:01      0:0
+  
+Maximum memory per node: 0.006488 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

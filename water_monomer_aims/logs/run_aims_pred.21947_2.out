@@ -1,0 +1,43 @@
+SLURM_JOB_NAME: run_aims_pred
+SLURM_ARRAY_JOB_ID: 21947
+SLURM_ARRAY_TASK_ID: 2
+SLURM_JOB_ID: 21949
+SLURM_JOB_PARTITION: interactive
+SLURM_JOB_NODELIST: viper05
+SLURM_MEM_PER_NODE: 32000
+SLURM_MY_ID: 21947_2
+SLURM_ARRAY_TASK_ID: 2
+calculate number 2
+data directory: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/aims_pred_data
+number of total geoms: 10
+pwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/aims_pred_data/2
+ri_restart_coeffs_predicted.out exists
+run FHI-aims
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  run_aims_pred
+Node list: viper05
+Job start: Fri Jun 28 00:37:56 CEST 2024
+Job end:   Fri Jun 28 00:37:57 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/run_aims_predict.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21947_2       run_aims_p      1            16                             00:00:01      0:0
+21947_2.0     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+  
+Maximum memory per node: 0.006038 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

@@ -1,0 +1,290 @@
+SLURM_JOB_NAME: gen_trainset
+SLURM_ARRAY_JOB_ID: 21902
+SLURM_ARRAY_TASK_ID: 2
+SLURM_JOB_ID: 21904
+SLURM_JOB_PARTITION: interactive
+SLURM_JOB_NODELIST: viper05
+SLURM_MEM_PER_NODE: 31744
+SLURM_MY_ID: 21902_2
+EXPAND_COEFF: 25
+CAL_IDXES: 26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+root directory: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper
+data directory: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data
+aims binary: /u/zklou/projects/aims/FHI-aims_clean/bin/aims.240605.scalapack.mpi.compiled_240627.x
+number of total geoms: 100
+
+
+
+
+
+calculate number 26
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/26
+run aims
+
+
+
+
+
+calculate number 27
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/27
+run aims
+
+
+
+
+
+calculate number 28
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/28
+run aims
+
+
+
+
+
+calculate number 29
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/29
+run aims
+
+
+
+
+
+calculate number 30
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/30
+run aims
+
+
+
+
+
+calculate number 31
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/31
+run aims
+
+
+
+
+
+calculate number 32
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/32
+run aims
+
+
+
+
+
+calculate number 33
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/33
+run aims
+
+
+
+
+
+calculate number 34
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/34
+run aims
+
+
+
+
+
+calculate number 35
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/35
+run aims
+
+
+
+
+
+calculate number 36
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/36
+run aims
+
+
+
+
+
+calculate number 37
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/37
+run aims
+
+
+
+
+
+calculate number 38
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/38
+run aims
+
+
+
+
+
+calculate number 39
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/39
+run aims
+
+
+
+
+
+calculate number 40
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/40
+run aims
+
+
+
+
+
+calculate number 41
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/41
+run aims
+
+
+
+
+
+calculate number 42
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/42
+run aims
+
+
+
+
+
+calculate number 43
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/43
+run aims
+
+
+
+
+
+calculate number 44
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/44
+run aims
+
+
+
+
+
+calculate number 45
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/45
+run aims
+
+
+
+
+
+calculate number 46
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/46
+run aims
+
+
+
+
+
+calculate number 47
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/47
+run aims
+
+
+
+
+
+calculate number 48
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/48
+run aims
+
+
+
+
+
+calculate number 49
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/49
+run aims
+
+
+
+
+
+calculate number 50
+cwd: /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/qmdata/data/50
+run aims
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  gen_trainset
+Node list: viper05
+Job start: Thu Jun 27 23:02:59 CEST 2024
+Job end:   Thu Jun 27 23:03:23 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/run_aims.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21902_2       gen_trains      1            16                             00:00:24      0:0
+21902_2.0     aims.24060      1      8     16        0.71M        0.70M   00:00:03      0:0
+21902_2.1     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.2     aims.24060      1      8     16        0.71M        0.70M   00:00:00      0:0
+21902_2.3     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.4     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.5     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.6     aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.7     aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.8     aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.9     aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.10    aims.24060      1      8     16        0.73M        0.71M   00:00:01      0:0
+21902_2.11    aims.24060      1      8     16        0.71M        0.70M   00:00:01      0:0
+21902_2.12    aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.13    aims.24060      1      8     16        0.71M        0.70M   00:00:00      0:0
+21902_2.14    aims.24060      1      8     16        0.71M        0.70M   00:00:01      0:0
+21902_2.15    aims.24060      1      8     16        0.71M        0.70M   00:00:01      0:0
+21902_2.16    aims.24060      1      8     16        0.72M        0.71M   00:00:01      0:0
+21902_2.17    aims.24060      1      8     16        0.74M        0.73M   00:00:01      0:0
+21902_2.18    aims.24060      1      8     16        0.73M        0.71M   00:00:01      0:0
+21902_2.19    aims.24060      1      8     16        0.73M        0.71M   00:00:01      0:0
+21902_2.20    aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.21    aims.24060      1      8     16        0.73M        0.72M   00:00:01      0:0
+21902_2.22    aims.24060      1      8     16        0.73M        0.72M   00:00:00      0:0
+21902_2.23    aims.24060      1      8     16        0.73M        0.71M   00:00:00      0:0
+21902_2.24    aims.24060      1      8     16        0.73M        0.71M   00:00:01      0:0
+  
+Maximum memory per node: 0.006201 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

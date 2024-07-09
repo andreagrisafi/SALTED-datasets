@@ -1,0 +1,247 @@
+Fri Jun 28 00:33:52 CEST 2024
+Running command: python -m salted.initialize
+wigners: lambda = 0
+wigners: lambda = 1
+wigners: lambda = 2
+wigners: lambda = 3
+wigners: lambda = 4
+time =  0.017818212509155273
+Fri Jun 28 00:33:54 CEST 2024
+Running command: python -m salted.sparse_selection
+Computed sparse set made of  100 environments
+Fri Jun 28 00:33:54 CEST 2024
+Running command: srun python -m salted.sparse_descriptor
+Task 1 handles the following structures: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+Task 2 handles the following structures: [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+Task 3 handles the following structures: [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74]
+Task 4 handles the following structures: [75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+0 start
+25 start
+50 start
+75 start
+75 end, time cost = 0.05 s
+76 start
+0 end, time cost = 0.05 s
+1 start
+50 end, time cost = 0.05 s
+51 start
+25 end, time cost = 0.05 s
+26 start
+76 end, time cost = 0.02 s
+77 start
+51 end, time cost = 0.02 s
+52 start
+26 end, time cost = 0.02 s
+27 start
+1 end, time cost = 0.02 s
+2 start
+77 end, time cost = 0.02 s
+78 start
+52 end, time cost = 0.02 s
+53 start
+27 end, time cost = 0.02 s
+28 start
+2 end, time cost = 0.02 s
+3 start
+53 end, time cost = 0.02 s
+54 start
+78 end, time cost = 0.02 s
+79 start
+28 end, time cost = 0.02 s
+29 start
+3 end, time cost = 0.02 s
+4 start
+54 end, time cost = 0.02 s
+55 start
+79 end, time cost = 0.02 s
+80 start
+29 end, time cost = 0.02 s
+30 start
+4 end, time cost = 0.02 s
+5 start
+30 end, time cost = 0.02 s
+31 start
+55 end, time cost = 0.02 s
+56 start
+80 end, time cost = 0.02 s
+81 start
+5 end, time cost = 0.02 s
+6 start
+56 end, time cost = 0.02 s
+57 start
+31 end, time cost = 0.02 s
+32 start
+81 end, time cost = 0.02 s
+82 start
+6 end, time cost = 0.02 s
+7 start
+57 end, time cost = 0.02 s
+58 start
+32 end, time cost = 0.02 s
+33 start
+82 end, time cost = 0.02 s
+83 start
+7 end, time cost = 0.02 s
+8 start
+58 end, time cost = 0.02 s
+59 start
+33 end, time cost = 0.02 s
+34 start
+83 end, time cost = 0.02 s
+84 start
+8 end, time cost = 0.02 s
+9 start
+59 end, time cost = 0.02 s
+60 start
+34 end, time cost = 0.02 s
+35 start
+84 end, time cost = 0.02 s
+85 start
+9 end, time cost = 0.02 s
+10 start
+60 end, time cost = 0.02 s
+61 start
+35 end, time cost = 0.02 s
+36 start
+85 end, time cost = 0.02 s
+86 start
+10 end, time cost = 0.02 s
+11 start
+61 end, time cost = 0.02 s
+62 start
+36 end, time cost = 0.02 s
+37 start
+86 end, time cost = 0.02 s
+87 start
+11 end, time cost = 0.02 s
+12 start
+37 end, time cost = 0.02 s
+38 start
+62 end, time cost = 0.02 s
+63 start
+87 end, time cost = 0.02 s
+88 start
+12 end, time cost = 0.02 s
+13 start
+38 end, time cost = 0.02 s
+39 start
+63 end, time cost = 0.02 s
+64 start
+88 end, time cost = 0.02 s
+89 start
+13 end, time cost = 0.02 s
+14 start
+39 end, time cost = 0.02 s
+40 start
+64 end, time cost = 0.02 s
+65 start
+89 end, time cost = 0.02 s
+90 start
+14 end, time cost = 0.02 s
+15 start
+65 end, time cost = 0.02 s
+66 start
+40 end, time cost = 0.02 s
+41 start
+90 end, time cost = 0.02 s
+91 start
+15 end, time cost = 0.02 s
+16 start
+66 end, time cost = 0.02 s
+67 start
+41 end, time cost = 0.02 s
+42 start
+91 end, time cost = 0.02 s
+92 start
+16 end, time cost = 0.02 s
+17 start
+42 end, time cost = 0.02 s
+43 start
+67 end, time cost = 0.02 s
+68 start
+92 end, time cost = 0.02 s
+93 start
+17 end, time cost = 0.02 s
+18 start
+68 end, time cost = 0.02 s
+69 start
+43 end, time cost = 0.02 s
+44 start
+93 end, time cost = 0.02 s
+94 start
+18 end, time cost = 0.02 s
+19 start
+69 end, time cost = 0.02 s
+70 start
+44 end, time cost = 0.02 s
+45 start
+94 end, time cost = 0.02 s
+95 start
+19 end, time cost = 0.02 s
+20 start
+70 end, time cost = 0.02 s
+71 start
+45 end, time cost = 0.02 s
+46 start
+95 end, time cost = 0.02 s
+96 start
+20 end, time cost = 0.02 s
+21 start
+71 end, time cost = 0.02 s
+72 start
+46 end, time cost = 0.02 s
+47 start
+96 end, time cost = 0.02 s
+97 start
+21 end, time cost = 0.02 s
+22 start
+72 end, time cost = 0.02 s
+73 start
+47 end, time cost = 0.02 s
+48 start
+97 end, time cost = 0.02 s
+98 start
+22 end, time cost = 0.02 s
+23 start
+48 end, time cost = 0.02 s
+49 start
+73 end, time cost = 0.02 s
+74 start
+98 end, time cost = 0.02 s
+99 start
+23 end, time cost = 0.02 s
+24 start
+49 end, time cost = 0.02 s
+74 end, time cost = 0.02 s
+99 end, time cost = 0.02 s
+24 end, time cost = 0.02 s
+Fri Jun 28 00:33:56 CEST 2024
+All commands finished
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  dcpt
+Node list: viper05
+Job start: Fri Jun 28 00:33:51 CEST 2024
+Job end:   Fri Jun 28 00:33:56 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/dcpt.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21942               dcpt      1            16                             00:00:05      0:0
+21942.0           python      1      4     16        1.19M        1.18M   00:00:02      0:0
+  
+Maximum memory per node: 0.004985 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

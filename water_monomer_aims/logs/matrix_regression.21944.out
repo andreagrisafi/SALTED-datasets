@@ -1,0 +1,127 @@
+Fri Jun 28 00:36:53 CEST 2024
+Running command: srun python -m salted.hessian_matrix
+Running in parallel mode
+Task 2 handling structures: [68, 55, 63, 65, 61, 67, 95, 18, 58, 86]
+conf: 69
+computing averages...
+Running in parallel mode
+Task 0 handling structures: [35, 41, 45, 4, 76, 12, 0, 64, 42, 11]
+problem dimensionality: 2988
+Running in parallel mode
+Task 1 handling structures: [81, 39, 7, 48, 78, 15, 53, 62, 9, 52]
+conf: 82
+Running in parallel mode
+Task 3 handling structures: [99, 92, 10, 17, 72, 21, 14, 44, 37, 91]
+conf: 100
+computing regression matrices...
+conf: 36
+conf time = 0.08010649681091309
+conf: 42
+conf time = 0.08010244369506836
+conf: 93
+conf time = 0.0802915096282959
+conf: 56
+conf time = 0.08039689064025879
+conf: 40
+conf time = 0.053839683532714844
+conf: 46
+conf time = 0.05393075942993164
+conf: 11
+conf time = 0.053736209869384766
+conf: 8
+conf time = 0.05399608612060547
+conf: 64
+conf time = 0.0532839298248291
+conf: 18
+conf time = 0.053823232650756836
+conf: 66
+conf time = 0.05405783653259277
+conf: 5
+conf time = 0.053914546966552734
+conf: 49
+conf time = 0.054274559020996094
+conf: 77
+conf time = 0.05426454544067383
+conf: 79
+conf time = 0.054337501525878906
+conf: 62
+conf time = 0.05484485626220703
+conf: 73
+conf time = 0.05398893356323242
+conf: 22
+conf time = 0.05403947830200195
+conf: 68
+conf time = 0.05413985252380371
+conf: 13
+conf time = 0.05420994758605957
+conf: 16
+conf time = 0.05245399475097656
+conf: 15
+conf time = 0.0534210205078125
+conf: 1
+conf time = 0.053760528564453125
+conf: 96
+conf time = 0.053617238998413086
+conf: 54
+conf time = 0.050451040267944336
+conf: 45
+conf time = 0.05254626274108887
+conf: 65
+conf time = 0.05256509780883789
+conf: 19
+conf time = 0.052913665771484375
+conf: 63
+conf time = 0.04922294616699219
+conf: 38
+conf time = 0.05137443542480469
+conf: 43
+conf time = 0.052431583404541016
+conf: 59
+conf time = 0.05230307579040527
+conf: 10
+conf time = 0.04741525650024414
+conf: 92
+conf time = 0.0490267276763916
+conf: 12
+conf time = 0.05108332633972168
+conf: 53
+conf time = 0.05132246017456055
+conf: 87
+conf time = 0.051744699478149414
+conf time = 0.05264639854431152
+conf time = 0.04802680015563965
+conf time = 0.04895639419555664
+Fri Jun 28 00:36:54 CEST 2024
+Running command: python -m salted.solve_regression
+problem dimensionality: 2988
+regression time: 0.004 minutes
+Fri Jun 28 00:36:55 CEST 2024
+All commands finished
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  matrix_regression
+Node list: viper05
+Job start: Fri Jun 28 00:36:52 CEST 2024
+Job end:   Fri Jun 28 00:36:55 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/regression.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21944         matrix_reg      1            16                             00:00:03      0:0
+21944.0           python      1      4     16        1.22M        1.21M   00:00:01      0:0
+  
+Maximum memory per node: 0.005104 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

@@ -1,0 +1,10 @@
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+/u/zklou/conda-envs/salted/bin/python: Error while finding module specification for 'salted.aims.move_data' (ModuleNotFoundError: No module named 'salted')
+srun: error: viper05: tasks 0-7: Exited with exit code 1
+srun: Terminating StepId=21937.0

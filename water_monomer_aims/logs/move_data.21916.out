@@ -1,0 +1,28 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  move_data
+Node list: viper05
+Job start: Thu Jun 27 23:27:49 CEST 2024
+Job end:   Thu Jun 27 23:27:56 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/move_data.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21916          move_data      1            16                             00:00:07      1:0
+21916.0           python      1      8     16       38.17M        5.44M   00:00:06      1:0
+  
+Maximum memory per node: 0.320233 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

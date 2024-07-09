@@ -1,0 +1,52 @@
+Task 1 handles the following structures: [0, 1, 2, 3, 4]
+Task 2 handles the following structures: [5, 6, 7, 8, 9]
+The dataset contains 10 frames.
+lambda = 0
+lambda = 1
+lambda = 2
+lambda = 3
+lambda = 4
+
+total time: 0.29 s
+This is task 1 of 2
+This is task 2 of 2
+processing 6/10 frame
+processing 7/10 frame
+processing 8/10 frame
+processing 9/10 frame
+processing 10/10 frame
+WARNING! This script assumes you will use an AIMS version >= 240403 to read the predicted RI coefficients. If this is not true, please use move_data_in_reorder instead.
+processing 1/10 frame
+processing 2/10 frame
+processing 3/10 frame
+processing 4/10 frame
+processing 5/10 frame
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: zklou(84671)
+Job name:  pred
+Node list: viper05
+Job start: Fri Jun 28 00:37:30 CEST 2024
+Job end:   Fri Jun 28 00:37:33 CEST 2024
+Work dir:  /u/zklou/projects/salted/water_example/example_water_monomer_light_test_viper/./
+Command:   /viper/ptmp/zklou/water_SALTED_example_240627/example_water_monomer_light_test_viper/pred.sbatch.sh
+  
+  
+  
+==========================================================================================
+Information on jobsteps (Note: MaxRSS/AveRSS is the maximum/average over all 
+tasks of the per-task memory high-water marks; cf. "man sacct"): 
+==========================================================================================
+  
+JobID            JobName NNodes NTasks  NCPUS       MaxRSS       AveRSS    Elapsed ExitCode
+------------- ---------- ------ ------ ------ ------------ ------------ ---------- --------
+21946               pred      1             4                             00:00:03      0:0
+21946.0           python      1      2      2        1.88M        1.88M   00:00:02      0:0
+21946.1           python      1      2      2        1.87M        1.87M   00:00:01      0:0
+  
+Maximum memory per node: 0.003944 GB (defined as MaxRSS*Ntasks/NNodes)
+CPU utilization: 0.0 %
+  

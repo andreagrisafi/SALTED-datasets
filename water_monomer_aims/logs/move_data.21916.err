@@ -1,0 +1,82 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/aims/move_data.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    from salted.sys_utils import ParseConfig, get_conf_range
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+  File "/viper/u/zklou/projects/salted_repos/SALTED_basic_no_change/salted/sys_utils.py", line 6, in <module>
+    import h5py
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    import h5py
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    import h5py
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+    from . import _errors
+  File "/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py", line 25, in <module>
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+    from . import _errors
+    from . import _errors
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+    from . import _errors
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+    from . import _errors
+    from . import _errors
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+    from . import _errors
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+    from . import _errors
+ImportError: cannot import name '_errors' from partially initialized module 'h5py' (most likely due to a circular import) (/mpcdf/soft/RHEL_9/packages/znver4/h5py-mpi/intel_2024.0-2024.0.2-anaconda_3_2023.03-2023.03-impi_2021.11-2021.11.0/3.8.0/lib/python3.10/site-packages/h5py/__init__.py)
+srun: error: viper05: tasks 0-7: Exited with exit code 1
+srun: Terminating StepId=21916.0
