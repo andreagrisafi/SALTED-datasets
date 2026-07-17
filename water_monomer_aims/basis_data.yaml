@@ -1,0 +1,7 @@
+FHI-aims-light:
+  H:
+    lmax: 2
+    nmax: [4, 3, 1]
+  O:
+    lmax: 4
+    nmax: [8, 7, 6, 3, 1]
