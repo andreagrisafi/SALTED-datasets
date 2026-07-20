@@ -1,0 +1,7 @@
+RI-cc-pvqz:
+  H:
+    lmax: 4
+    nmax: [4, 3, 3, 2, 1]
+  O:
+    lmax: 5
+    nmax: [10, 7, 5, 3, 2, 1]
