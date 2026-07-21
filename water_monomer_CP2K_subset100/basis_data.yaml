@@ -1,0 +1,7 @@
+RI-basis:
+  H:
+    lmax: 2
+    nmax: [8, 1, 1]
+  O:
+    lmax: 3
+    nmax: [7, 6, 6, 1]
