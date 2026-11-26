@@ -13,6 +13,7 @@ system:
 
 # quantum mechanical info
 qm:
+  numbering_start: 0
   path2qm: ./
   qmcode: aims
   dfbasis: RI-aims
