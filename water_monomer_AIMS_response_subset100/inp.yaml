@@ -13,6 +13,7 @@ system:
 
 # quantum mechanical info
 qm:
+  dataset_index_start: 0
   path2qm: ./
   qmcode: aims
   dfbasis: RI-aims
